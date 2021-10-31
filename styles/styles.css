@@ -1,0 +1,10 @@
+.card-body{
+    height: 350px;
+}
+a{
+    text-decoration: none;
+}
+.card:hover{
+    transform: scale(1.02);
+    box-shadow: 1px 3px 5px rgba(0,0,0,0.3) !important;
+}
